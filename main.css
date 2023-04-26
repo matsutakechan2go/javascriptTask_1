@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-*, *:before, *:after {
+/* *, *:before, *:after {
   word-break: break-all;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -33,9 +33,6 @@ button {
 
 #start {
   margin-left: 4px;
-}
+} */
 
-#hideCounter {
-  display: none;
-}
 
